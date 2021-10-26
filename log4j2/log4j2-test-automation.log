@@ -1,0 +1,274 @@
+[INFO ] 2021-10-26 12:04:32.974 [main] Log - *******Start*********
+[INFO ] 2021-10-26 12:04:33.535 [main] Log - Loaded all flies
+[ERROR] 2021-10-26 12:04:33.536 [main] Log - *******Failed to load files *********
+[INFO ] 2021-10-26 12:04:33.748 [main] Log - *******Start*********
+[INFO ] 2021-10-26 12:04:33.750 [main] Log - Loaded all flies
+[ERROR] 2021-10-26 12:04:33.751 [main] Log - *******Failed to load files *********
+[INFO ] 2021-10-26 12:04:33.929 [main] Log - *******Start*********
+[INFO ] 2021-10-26 12:04:33.930 [main] Log - Loaded all flies
+[ERROR] 2021-10-26 12:04:33.931 [main] Log - *******Failed to load files *********
+[INFO ] 2021-10-26 12:47:46.495 [main] Log - *******Start*********
+[INFO ] 2021-10-26 12:47:46.948 [main] Log - Loaded all flies
+[INFO ] 2021-10-26 12:47:47.110 [main] Log - *******Start*********
+[INFO ] 2021-10-26 12:47:47.114 [main] Log - Loaded all flies
+[INFO ] 2021-10-26 12:48:50.412 [main] Log - *******Start*********
+[INFO ] 2021-10-26 12:48:50.744 [main] Log - Loaded all flies
+[ERROR] 2021-10-26 12:48:50.745 [main] Log - *******Failed to load files *********
+[INFO ] 2021-10-26 12:48:50.884 [main] Log - *******Start*********
+[INFO ] 2021-10-26 12:48:50.885 [main] Log - Loaded all flies
+[ERROR] 2021-10-26 12:48:50.886 [main] Log - *******Failed to load files *********
+[INFO ] 2021-10-26 12:51:14.933 [main] Log - *******Start*********
+[INFO ] 2021-10-26 12:51:15.226 [main] Log - Loaded all flies
+[ERROR] 2021-10-26 12:51:15.227 [main] Log - *******Failed to load files *********
+[ERROR] 2021-10-26 12:51:15.347 [main] Log - Error Messsgae : Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+[ERROR] 2021-10-26 12:51:15.416 [main] Log - Error Messsgae : Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+[INFO ] 2021-10-26 12:51:15.417 [main] Log - Clicked on element
+[ERROR] 2021-10-26 12:51:15.417 [main] Log - Error Messsgae : Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+[INFO ] 2021-10-26 12:51:15.444 [main] Log - *******Start*********
+[INFO ] 2021-10-26 12:51:15.444 [main] Log - Loaded all flies
+[ERROR] 2021-10-26 12:51:15.445 [main] Log - *******Failed to load files *********
+[INFO ] 2021-10-26 13:01:46.963 [main] Log - *******Start*********
+[INFO ] 2021-10-26 13:01:47.231 [main] Log - Loaded all flies
+[INFO ] 2021-10-26 13:02:00.877 [main] Log - Chrome Driver launched
+[INFO ] 2021-10-26 13:02:13.693 [main] Log - Element is displayed
+[INFO ] 2021-10-26 13:02:15.285 [main] Log - Passed value Apple
+[INFO ] 2021-10-26 13:02:26.449 [main] Log - Clicked on element
+[INFO ] 2021-10-26 13:02:28.259 [main] Log - *******Start*********
+[INFO ] 2021-10-26 13:02:28.259 [main] Log - Loaded all flies
+[INFO ] 2021-10-26 13:02:31.453 [main] Log - Chrome Driver launched
+[INFO ] 2021-10-26 13:02:42.355 [main] Log - Element is displayed
+[INFO ] 2021-10-26 13:02:42.801 [main] Log - Passed value Iphone
+[INFO ] 2021-10-26 13:02:47.666 [main] Log - Clicked on element
+[INFO ] 2021-10-26 13:07:45.781 [main] Log - *******Start*********
+[INFO ] 2021-10-26 13:07:46.007 [main] Log - Loaded all flies
+[INFO ] 2021-10-26 13:07:46.145 [main] Log - *******Start*********
+[INFO ] 2021-10-26 13:07:46.147 [main] Log - Loaded all flies
+[INFO ] 2021-10-26 13:07:46.201 [main] Log - *******Start*********
+[INFO ] 2021-10-26 13:07:46.203 [main] Log - Loaded all flies
+[INFO ] 2021-10-26 13:08:17.169 [main] Log - *******Start*********
+[INFO ] 2021-10-26 13:08:17.501 [main] Log - Loaded all flies
+[INFO ] 2021-10-26 13:08:21.943 [main] Log - Chrome Driver launched
+[INFO ] 2021-10-26 13:08:32.419 [main] Log - Element is displayed
+[INFO ] 2021-10-26 13:08:32.977 [main] Log - Passed value Apple
+[INFO ] 2021-10-26 13:08:37.716 [main] Log - Clicked on element
+[INFO ] 2021-10-26 13:08:43.029 [main] Log - *******Start*********
+[INFO ] 2021-10-26 13:08:43.032 [main] Log - Loaded all flies
+[INFO ] 2021-10-26 13:08:46.190 [main] Log - Chrome Driver launched
+[INFO ] 2021-10-26 13:08:55.279 [main] Log - Element is displayed
+[INFO ] 2021-10-26 13:08:55.287 [main] Log - Passed value 
+[INFO ] 2021-10-26 13:09:25.403 [main] Log - Clicked on element
+[ERROR] 2021-10-26 13:09:25.404 [main] Log - Error Messsgae : element not interactable
+  (Session info: chrome=95.0.4638.54)
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'VAMSI_SIVA', ip: '192.168.1.102', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.54, chrome: {chromedriverVersion: 95.0.4638.17 (a9d0719444d4b..., userDataDir: C:\Users\SIVAKU~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:65486}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 5a6bbf77aec5972cf1731bb618037e4f
+[INFO ] 2021-10-26 13:09:29.754 [main] Log - *******Start*********
+[INFO ] 2021-10-26 13:09:29.754 [main] Log - Loaded all flies
+[INFO ] 2021-10-26 13:09:32.749 [main] Log - Chrome Driver launched
+[INFO ] 2021-10-26 13:09:49.845 [main] Log - Element is displayed
+[INFO ] 2021-10-26 13:09:50.403 [main] Log - Passed value Iphone
+[INFO ] 2021-10-26 13:09:57.088 [main] Log - Clicked on element
+[INFO ] 2021-10-26 13:14:06.115 [main] Log - *******Start*********
+[INFO ] 2021-10-26 13:14:06.354 [main] Log - Loaded all flies
+[INFO ] 2021-10-26 13:14:10.800 [main] Log - Chrome Driver launched
+[INFO ] 2021-10-26 13:14:34.269 [main] Log - Element is displayed
+[INFO ] 2021-10-26 13:14:34.389 [main] Log - Passed value 
+[INFO ] 2021-10-26 13:15:04.554 [main] Log - Clicked on element
+[ERROR] 2021-10-26 13:15:04.555 [main] Log - Error Messsgae : element not interactable
+  (Session info: chrome=95.0.4638.54)
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'VAMSI_SIVA', ip: '192.168.1.102', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.54, chrome: {chromedriverVersion: 95.0.4638.17 (a9d0719444d4b..., userDataDir: C:\Users\SIVAKU~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:49482}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 3dd64c22e33a22ca92818fb0a07ef43e
+[INFO ] 2021-10-26 13:16:02.831 [main] Log - *******Start*********
+[INFO ] 2021-10-26 13:16:03.041 [main] Log - Loaded all flies
+[INFO ] 2021-10-26 13:16:08.110 [main] Log - Chrome Driver launched
+[INFO ] 2021-10-26 13:16:48.732 [main] Log - *******Start*********
+[INFO ] 2021-10-26 13:16:49.019 [main] Log - Loaded all flies
+[INFO ] 2021-10-26 13:16:52.539 [main] Log - Chrome Driver launched
+[INFO ] 2021-10-26 13:17:08.482 [main] Log - Element is displayed
+[INFO ] 2021-10-26 13:18:49.561 [main] Log - *******Start*********
+[INFO ] 2021-10-26 13:18:49.756 [main] Log - Loaded all flies
+[INFO ] 2021-10-26 13:18:54.360 [main] Log - Chrome Driver launched
+[INFO ] 2021-10-26 13:19:13.442 [main] Log - Element is displayed
+[INFO ] 2021-10-26 13:19:13.776 [main] Log - Passed value 
+[INFO ] 2021-10-26 13:19:16.370 [main] Log - Clicked on element
+[INFO ] 2021-10-26 13:19:35.625 [main] Log - *******Start*********
+[INFO ] 2021-10-26 13:19:35.838 [main] Log - Loaded all flies
+[INFO ] 2021-10-26 13:19:40.221 [main] Log - Chrome Driver launched
+[INFO ] 2021-10-26 13:19:58.388 [main] Log - Element is displayed
+[INFO ] 2021-10-26 13:20:16.265 [main] Log - Passed value 
+[INFO ] 2021-10-26 13:20:25.876 [main] Log - Clicked on element
+[INFO ] 2021-10-26 13:47:55.589 [main] Log - *******Start*********
+[INFO ] 2021-10-26 13:47:55.820 [main] Log - Loaded all flies
+[INFO ] 2021-10-26 13:47:59.666 [main] Log - Chrome Driver launched
+[INFO ] 2021-10-26 13:48:15.481 [main] Log - Element is displayed
+[INFO ] 2021-10-26 13:48:15.771 [main] Log - Passed value 
+[INFO ] 2021-10-26 13:48:18.784 [main] Log - Clicked on element
+[INFO ] 2021-10-26 15:05:36.634 [main] Log - *******Start*********
+[INFO ] 2021-10-26 15:05:37.065 [main] Log - Loaded all flies
+[INFO ] 2021-10-26 15:05:37.298 [main] Log - *******Start*********
+[INFO ] 2021-10-26 15:05:37.303 [main] Log - Loaded all flies
+[INFO ] 2021-10-26 15:05:37.338 [main] Log - *******Start*********
+[INFO ] 2021-10-26 15:05:37.339 [main] Log - Loaded all flies
+[INFO ] 2021-10-26 15:06:07.485 [main] Log - *******Start*********
+[INFO ] 2021-10-26 15:06:07.692 [main] Log - Loaded all flies
+[INFO ] 2021-10-26 15:06:17.664 [main] Log - Chrome Driver launched
+[INFO ] 2021-10-26 15:06:29.985 [main] Log - Element is displayed
+[INFO ] 2021-10-26 15:06:30.595 [main] Log - Passed value Apple
+[INFO ] 2021-10-26 15:06:36.228 [main] Log - Clicked on element
+[INFO ] 2021-10-26 15:06:40.622 [main] Log - *******Start*********
+[INFO ] 2021-10-26 15:06:40.623 [main] Log - Loaded all flies
+[INFO ] 2021-10-26 15:06:43.706 [main] Log - Chrome Driver launched
+[INFO ] 2021-10-26 15:07:03.320 [main] Log - Element is displayed
+[INFO ] 2021-10-26 15:07:03.721 [main] Log - Passed value 
+[INFO ] 2021-10-26 15:07:06.241 [main] Log - Clicked on element
+[INFO ] 2021-10-26 15:07:06.805 [main] Log - *******Start*********
+[INFO ] 2021-10-26 15:07:06.806 [main] Log - Loaded all flies
+[INFO ] 2021-10-26 15:07:09.276 [main] Log - Chrome Driver launched
+[INFO ] 2021-10-26 15:07:22.982 [main] Log - Element is displayed
+[INFO ] 2021-10-26 15:07:23.429 [main] Log - Passed value Iphone
+[INFO ] 2021-10-26 15:07:28.906 [main] Log - Clicked on element
+[INFO ] 2021-10-26 15:54:45.879 [main] Log - *******Start*********
+[ERROR] 2021-10-26 15:54:45.917 [main] Log - *******Failed to load files *********
+[INFO ] 2021-10-26 15:54:52.533 [main] Log - Chrome Driver launched
+[INFO ] 2021-10-26 15:55:06.890 [main] Log - Chrome Driver launched
+[INFO ] 2021-10-26 15:55:41.407 [main] Log - Chrome Driver launched
+[INFO ] 2021-10-26 15:58:08.722 [main] Log - *******Start*********
+[INFO ] 2021-10-26 15:58:08.963 [main] Log - Loaded all flies
+[INFO ] 2021-10-26 15:58:15.267 [main] Log - Chrome Driver launched
+[INFO ] 2021-10-26 15:58:31.751 [main] Log - Element is displayed
+[INFO ] 2021-10-26 15:58:32.606 [main] Log - Passed value Apple
+[INFO ] 2021-10-26 15:58:37.500 [main] Log - Clicked on element
+[INFO ] 2021-10-26 15:58:41.935 [main] Log - Chrome Driver launched
+[INFO ] 2021-10-26 15:59:01.994 [main] Log - Element is displayed
+[INFO ] 2021-10-26 15:59:02.294 [main] Log - Passed value 
+[INFO ] 2021-10-26 15:59:06.034 [main] Log - Clicked on element
+[INFO ] 2021-10-26 15:59:09.086 [main] Log - Chrome Driver launched
+[INFO ] 2021-10-26 15:59:23.341 [main] Log - Element is displayed
+[INFO ] 2021-10-26 15:59:23.712 [main] Log - Passed value Iphone
+[INFO ] 2021-10-26 15:59:29.147 [main] Log - Clicked on element
+[ERROR] 2021-10-26 18:47:37.441 [main] Log - *******Unable to launch browser null*********
+[ERROR] 2021-10-26 18:47:37.505 [main] Log - *******Unable to launch browser null*********
+[ERROR] 2021-10-26 18:47:37.546 [main] Log - *******Unable to launch browser null*********
+[INFO ] 2021-10-26 18:48:51.721 [main] Log - *******Start*********
+[INFO ] 2021-10-26 18:48:51.952 [main] Log - Loaded all flies
+[INFO ] 2021-10-26 18:49:18.897 [main] Log - Chrome Driver launched
+[INFO ] 2021-10-26 18:49:38.978 [main] Log - Element is displayed
+[INFO ] 2021-10-26 18:49:45.313 [main] Log - Chrome Driver launched
+[INFO ] 2021-10-26 18:50:04.707 [main] Log - Element is displayed
+[INFO ] 2021-10-26 18:50:10.117 [main] Log - Chrome Driver launched
+[INFO ] 2021-10-26 18:50:29.834 [main] Log - Element is displayed
+[ERROR] 2021-10-26 18:59:05.250 [main] Log - *******Unable to launch browser null*********
+[ERROR] 2021-10-26 18:59:05.298 [main] Log - *******Unable to launch browser null*********
+[ERROR] 2021-10-26 18:59:05.337 [main] Log - *******Unable to launch browser null*********
+[INFO ] 2021-10-26 19:01:23.866 [main] Log - *******Start*********
+[INFO ] 2021-10-26 19:01:24.185 [main] Log - Loaded all flies
+[INFO ] 2021-10-26 19:01:27.712 [main] Log - Chrome Driver launched
+[ERROR] 2021-10-26 19:01:33.122 [main] Log - *******Unable to launch browser chrome*********
+[ERROR] 2021-10-26 19:01:33.361 [main] Log - Error Messsgae : no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=95.0.4638.54)
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'VAMSI_SIVA', ip: '192.168.1.102', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.54, chrome: {chromedriverVersion: 95.0.4638.17 (a9d0719444d4b..., userDataDir: C:\Users\SIVAKU~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:55533}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 72d4cffa9365487c139591da8b0c1fa5
+*** Element info: {Using=xpath, value=//div[@id='a-page']}
+[INFO ] 2021-10-26 19:01:51.003 [main] Log - *******Start*********
+[INFO ] 2021-10-26 19:01:51.261 [main] Log - Loaded all flies
+[INFO ] 2021-10-26 19:01:55.334 [main] Log - Chrome Driver launched
+[INFO ] 2021-10-26 19:03:44.540 [main] Log - *******Start*********
+[INFO ] 2021-10-26 19:03:44.816 [main] Log - Loaded all flies
+[INFO ] 2021-10-26 19:03:50.963 [main] Log - Chrome Driver launched
+[INFO ] 2021-10-26 19:05:29.170 [main] Log - Element is displayed
+[INFO ] 2021-10-26 19:06:27.944 [main] Log - *******Start*********
+[INFO ] 2021-10-26 19:06:28.168 [main] Log - Loaded all flies
+[INFO ] 2021-10-26 19:06:33.574 [main] Log - Chrome Driver launched
+[INFO ] 2021-10-26 19:06:56.405 [main] Log - Element is displayed
+[INFO ] 2021-10-26 19:06:58.902 [main] Log - Passed value Apple
+[INFO ] 2021-10-26 19:07:11.208 [main] Log - Clicked on element
+[INFO ] 2021-10-26 19:07:18.730 [main] Log - Chrome Driver launched
+[INFO ] 2021-10-26 19:07:35.348 [main] Log - Element is displayed
+[INFO ] 2021-10-26 19:07:36.571 [main] Log - Passed value 
+[INFO ] 2021-10-26 19:07:40.828 [main] Log - Clicked on element
+[INFO ] 2021-10-26 19:07:46.017 [main] Log - Chrome Driver launched
+[INFO ] 2021-10-26 19:07:57.618 [main] Log - Element is displayed
+[INFO ] 2021-10-26 19:07:58.880 [main] Log - Passed value Iphone
+[INFO ] 2021-10-26 19:08:05.561 [main] Log - Clicked on element
+[INFO ] 2021-10-26 19:24:24.075 [main] Log - *******Start*********
+[INFO ] 2021-10-26 19:24:24.385 [main] Log - Loaded all flies
+[INFO ] 2021-10-26 19:24:36.328 [main] Log - Chrome Driver launched
+[INFO ] 2021-10-26 19:25:01.683 [main] Log - Element is displayed
+[INFO ] 2021-10-26 19:25:05.052 [main] Log - Passed value Apple
+[INFO ] 2021-10-26 19:25:25.335 [main] Log - Clicked on element
+[INFO ] 2021-10-26 19:25:36.974 [main] Log - Chrome Driver launched
+[INFO ] 2021-10-26 19:26:02.932 [main] Log - Element is displayed
+[INFO ] 2021-10-26 19:26:05.207 [main] Log - Passed value 
+[INFO ] 2021-10-26 19:26:09.854 [main] Log - Clicked on element
+[INFO ] 2021-10-26 19:26:16.068 [main] Log - Chrome Driver launched
+[INFO ] 2021-10-26 19:26:31.206 [main] Log - Element is displayed
+[INFO ] 2021-10-26 19:26:33.357 [main] Log - Passed value Iphone
+[INFO ] 2021-10-26 19:26:40.768 [main] Log - Clicked on element
+[ERROR] 2021-10-26 20:11:27.885 [main] Log - *******Unable to launch browser null*********
+[ERROR] 2021-10-26 20:11:27.981 [main] Log - *******Unable to launch browser null*********
+[ERROR] 2021-10-26 20:11:28.028 [main] Log - *******Unable to launch browser null*********
+[INFO ] 2021-10-26 20:12:42.568 [main] Log - *******Start*********
+[INFO ] 2021-10-26 20:12:42.831 [main] Log - Loaded all flies
+[INFO ] 2021-10-26 20:16:08.804 [main] Log - *******Start*********
+[INFO ] 2021-10-26 20:16:09.148 [main] Log - Loaded all flies
+[INFO ] 2021-10-26 20:16:34.176 [main] Log - Chrome Driver launched
+[INFO ] 2021-10-26 20:17:10.480 [main] Log - Element is displayed
+[INFO ] 2021-10-26 20:17:13.897 [main] Log - Passed value Apple
+[INFO ] 2021-10-26 20:17:38.682 [main] Log - Clicked on element
+[INFO ] 2021-10-26 20:17:39.324 [main] Log - Element is displayed
+[INFO ] 2021-10-26 20:18:01.076 [main] Log - Chrome Driver launched
+[INFO ] 2021-10-26 20:18:30.859 [main] Log - Element is displayed
+[INFO ] 2021-10-26 20:18:32.185 [main] Log - Passed value 
+[INFO ] 2021-10-26 20:18:36.122 [main] Log - Clicked on element
+[INFO ] 2021-10-26 20:18:36.473 [main] Log - Element is displayed
+[INFO ] 2021-10-26 20:18:43.997 [main] Log - Chrome Driver launched
+[INFO ] 2021-10-26 20:18:58.351 [main] Log - Element is displayed
+[INFO ] 2021-10-26 20:18:59.607 [main] Log - Passed value Iphone
+[INFO ] 2021-10-26 20:19:07.748 [main] Log - Clicked on element
+[ERROR] 2021-10-26 23:12:38.152 [main] Log - *******Unable to launch browser null*********
+[ERROR] 2021-10-26 23:12:38.200 [main] Log - *******Unable to launch browser null*********
+[ERROR] 2021-10-26 23:12:38.221 [main] Log - *******Unable to launch browser null*********
+[ERROR] 2021-10-26 23:12:38.237 [main] Log - *******Unable to launch browser null*********
+[ERROR] 2021-10-26 23:15:17.940 [main] Log - *******Unable to launch browser null*********
+[ERROR] 2021-10-26 23:15:18.109 [main] Log - *******Unable to launch browser null*********
+[ERROR] 2021-10-26 23:15:18.166 [main] Log - *******Unable to launch browser null*********
+[ERROR] 2021-10-26 23:15:18.231 [main] Log - *******Unable to launch browser null*********
+[INFO ] 2021-10-26 23:17:01.058 [main] Log - *******Start*********
+[INFO ] 2021-10-26 23:17:01.324 [main] Log - Loaded all flies
+[INFO ] 2021-10-26 23:17:24.075 [main] Log - Chrome Driver launched
+[INFO ] 2021-10-26 23:18:33.775 [main] Log - Element is displayed
+[INFO ] 2021-10-26 23:18:42.752 [main] Log - Passed value Apple
+[INFO ] 2021-10-26 23:19:03.283 [main] Log - Clicked on element
+[INFO ] 2021-10-26 23:19:04.032 [main] Log - Element is displayed
+[INFO ] 2021-10-26 23:19:34.248 [main] Log - Chrome Driver launched
+[INFO ] 2021-10-26 23:20:40.152 [main] Log - Element is displayed
+[INFO ] 2021-10-26 23:20:41.978 [main] Log - Passed value 
+[INFO ] 2021-10-26 23:20:51.559 [main] Log - Clicked on element
+[INFO ] 2021-10-26 23:20:54.748 [main] Log - Element is displayed
+[INFO ] 2021-10-26 23:21:15.009 [main] Log - Chrome Driver launched
+[INFO ] 2021-10-26 23:21:37.902 [main] Log - Element is displayed
+[INFO ] 2021-10-26 23:21:39.354 [main] Log - Passed value 
+[INFO ] 2021-10-26 23:21:43.876 [main] Log - Clicked on element
+[INFO ] 2021-10-26 23:21:45.153 [main] Log - Element is displayed
+[ERROR] 2021-10-26 23:22:15.546 [main] Log - Error Messsgae : no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='continu']"}
+  (Session info: chrome=95.0.4638.54)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'VAMSI_SIVA', ip: '192.168.1.102', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.54, chrome: {chromedriverVersion: 95.0.4638.17 (a9d0719444d4b..., userDataDir: C:\Users\SIVAKU~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:53286}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 5efcd6d96f4f59f408d30e7222e0596f
+*** Element info: {Using=xpath, value=//input[@id='continu']}
+[INFO ] 2021-10-26 23:22:24.127 [main] Log - Chrome Driver launched
+[INFO ] 2021-10-26 23:22:50.916 [main] Log - Element is displayed
+[INFO ] 2021-10-26 23:22:52.623 [main] Log - Passed value Iphone
+[INFO ] 2021-10-26 23:23:00.519 [main] Log - Clicked on element
